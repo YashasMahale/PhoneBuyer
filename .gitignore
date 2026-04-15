@@ -1,0 +1,31 @@
+# Environment
+.venv/
+.env
+.env.*
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+backend/__pycache__/
+scraper/__pycache__/
+frontend/node_modules/
+frontend/dist/
+
+# Data files (Force users to run scraper)
+data/*.json
+data/*.csv
