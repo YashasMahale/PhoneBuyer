@@ -1,5 +1,5 @@
 # Phone Buyer AI
-
+(Another README.md present in the project)
 An AI-powered smartphone recommendation and comparison platform that helps users find the best mobile devices based on their specific requirements.
 
 ## Project Structure
